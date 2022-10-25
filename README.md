@@ -1,1 +1,0 @@
-# udacity-first-project
